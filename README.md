@@ -15,8 +15,8 @@ A responsive food product landing page built with **HTML** and **CSS only**. Per
 ---
 
 ## 📸 Preview
-
-![Landing Page Preview]( https://chanru-project.github.io/landingpage/)
+ 
+[Landing Page Preview]( https://chanru-project.github.io/landingpage/)
 
 A responsive food product landing page built with **HTML** and **CSS only**. Perfect for showcasing healthy meals, organic snacks, or any food-related brand.
 
