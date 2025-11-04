@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chanru-project.github.io/landingpage/sitemap.xml
